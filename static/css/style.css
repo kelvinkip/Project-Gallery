@@ -31,7 +31,7 @@ body{
 }
 
 .btn{
-    background-color: rgba(11, 177, 171, 0.931);
+    background-color: blue;
     border-radius: 15px;
     color: white;
 }
@@ -52,7 +52,7 @@ a{
     font-family: 'Roboto Condensed',
     sans-serif;
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 .modal-content{
