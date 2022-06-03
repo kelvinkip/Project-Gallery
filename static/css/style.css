@@ -46,7 +46,7 @@ a{
 }
 
 .modal-body{
-    font-weight: bold;
+    font-weight: bolder;
     font-family: 'Anek Gujarati',
     sans-serif;
     font-family: 'Roboto Condensed',
@@ -60,7 +60,7 @@ a{
     background: rgba(11, 5, 34, 0.25);
     box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
     backdrop-filter: blur(5px);
-    -webkit-backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(6px);
     border-radius: 10px;
     border: 1px solid darkgray;
 }
